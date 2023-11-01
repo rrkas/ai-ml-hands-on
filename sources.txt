@@ -5,6 +5,7 @@ Official Docs
     https://pandas.pydata.org/docs/reference/index.html
     https://matplotlib.org/stable/api/index.html
     https://seaborn.pydata.org/api.html
+    https://scikit-learn.org/stable/modules/classes.html
 
 
 Data Sources
