@@ -1,6 +1,51 @@
+Official Docs
+==============
+    https://docs.python.org/3/library/index.html
+    https://numpy.org/doc/stable/reference/
+    https://pandas.pydata.org/docs/reference/index.html
+    https://matplotlib.org/stable/api/index.html
+    https://seaborn.pydata.org/api.html
+
+
+Data Sources
+==============
+    Public
+    -------
+        https://data.gov.in/
+        https://data.nasa.gov/
+        https://data.unicef.org/
+        https://data.census.gov/
+        https://opendata.cern.ch/
+        https://data.worldbank.org/
+        https://archive.ics.uci.edu/
+        https://www.yelp.com/dataset
+        https://data.nasdaq.com/search
+        https://datahub.io/collections
+        https://registry.opendata.aws/
+        https://www.kaggle.com/datasets
+        https://www.earthdata.nasa.gov/
+        https://data.fivethirtyeight.com/
+        https://cloud.google.com/datasets
+        https://data.world/datasets/open-data
+        https://apps.who.int/gho/data/node.home
+        https://datasetsearch.research.google.com/
+        https://academictorrents.com/browse.php?cat=6
+        https://www.bfi.org.uk/industry-data-insights
+        https://github.com/awesomedata/awesome-public-datasets
+        https://www.tableau.com/learn/articles/free-public-data-sets
+        https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+        https://www.openml.org/search?type=data&sort=runs&status=active
+        https://aws.amazon.com/marketplace/search/results?PRICING_MODEL=FREE&filters=PRICING_MODEL
+
+
+    Private
+    -------
+        Proprietary/ Organization data
+
+
 Udemy
 ==============
-https://www.udemy.com/course/machine-learning-become-kaggle-master/
+    https://www.udemy.com/course/machine-learning-become-kaggle-master/
 
 
 
@@ -11,4 +56,6 @@ Coursera
 
 YouTube
 ==============
+
+
 
