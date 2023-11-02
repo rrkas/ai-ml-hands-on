@@ -6,7 +6,10 @@ Simple linear regression is used to model the relationship between two continuou
 
 Formula:
 
-> `y = mx + c`
+> `yi = m * xi + c + e`
 
+- yi = dependent variable
+- xi = independent variable
 - m = slope
 - c = intercept
+- e = model's error term

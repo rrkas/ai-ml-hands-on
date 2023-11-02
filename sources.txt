@@ -6,6 +6,7 @@ Official Docs
     https://matplotlib.org/stable/api/index.html
     https://seaborn.pydata.org/api.html
     https://scikit-learn.org/stable/modules/classes.html
+    https://www.statsmodels.org/stable/index.html
 
 
 Data Sources
