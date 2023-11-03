@@ -8,16 +8,21 @@ https://en.wikipedia.org/wiki/Loss_function
 - [RSE](./RSE.md)
 
 
-## Evaluation Matrices
+## Evaluation Metrics
 
 Used to check how accurate/ good our model is.
 
+- [R square](./R-squared.md)
 - [RSS](./RSS.md)
 - [TSS](./TSS.md)
-- [R square](./R-squared.md)
 
 
 ## Estimation Methods
 
 - [OLS](./OLS.md)
+
+
+## Optimization Algorithms
+
+- [Gradient Descent](./Gradient%20Descent.md)
 
