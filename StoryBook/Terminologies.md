@@ -32,3 +32,19 @@
 | Vector Space | Collection of all vectors that follow the rules of vector addition and scalar multiplication <br> Examples: <br> `[1, 2, 3]` <br> `[4, 5, 6]` <br> `[0, 0, 2]` |
 | Matrix | It is a n-dimensional object representing data <br> Example: <br> `[[1, 2, 3]`,<br> `[4, 5, 6]`,<br> `[0, 0, 2]]` |
 
+## Confusion Matrix/ Error Matrix Terminologies
+
+![Confusion matrix](../Images/Confusion%20matrix.webp)
+
+| Term | Description |
+| - | - |
+| condition positive (P) | the number of real positive cases in the data |
+| condition negative (N) | the number of real negative cases in the data |
+| True Positive (TP) | A test result that correctly indicates the presence of a condition or characteristic. |
+| True Negative (TN) | A test result that correctly indicates the absence of a condition or characteristic |
+| False Positive (FP)<br> Type I error | A test result which wrongly indicates that a particular condition or attribute is present |
+| False Negative (FN)<br> Type II error | A test result which wrongly indicates that a particular condition or attribute is absent |
+| Sensitivity | the accuracy of a test that reports the presence of a condition |
+| Specificity | the accuracy of a test that reports the absence of a condition |
+| Precision | Precision is the fraction of relevant instances among the retrieved instances. |
+| Recall | Recall is the fraction of relevant instances that were retrieved. |

@@ -14,14 +14,18 @@ https://en.wikipedia.org/wiki/Loss_function
 - [RSE](./Explanations/RSE.md)
 
 
-## Evaluation Metrics
+## Evaluation/ Performance Metrics
 
 Used to check how accurate/ good our model is.
 
 - [R square](./Explanations/R-squared.md)
 - [RSS](./Explanations/RSS.md)
 - [TSS](./Explanations/TSS.md)
-
+- Accuracy
+- [Confusion Matrix](./Explanations/Confusion%20matrix.md)
+- [Receiver operating characteristic (ROC)](./Explanations/Receiver%20operating%20characteristic.md)
+- [Logistic Loss (Log Loss)](./Explanations/Logistic%20Loss.md)
+- [Median absolute deviation (MAD)](./Explanations/Median%20absolute%20deviation.md)
 
 ## Estimation Methods
 
