@@ -4,7 +4,7 @@
 
 - [One-Hot Encoder](./Explanations/One-Hot%20Encoder.md)
 - [Normalization and Standardization](./Explanations/Normalization%20and%20Standardization.md)
-- [Imputation]()
+- [Imputation](./Explanations/Imputation.md)
 
 ## Loss Functions
 
